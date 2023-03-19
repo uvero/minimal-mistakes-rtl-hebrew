@@ -1,5 +1,5 @@
 ---
-title: "دسته‌بندی موضوعی"
+title: "תגיות"
 permalink: /tags/
 layout: tags
 author_profile: true

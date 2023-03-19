@@ -1,5 +1,5 @@
 ---
-title: "نمای شبکه‌ای پست‌ها برساس دسته‌بندی"
+title: "קטגוריות"
 layout: categories
 permalink: /categories-grid/
 entries_layout: grid

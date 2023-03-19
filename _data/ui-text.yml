@@ -1870,6 +1870,7 @@ he: &DEFAULT_HE
   ext_link_label             : "קישור ישיר"
   less_than                  : "פחות מ"
   minute_read                : "דקת קריאה"
+  minutes_read                : "דקות קריאה"
   share_on_label             : "שתפו ב"
   meta_label                 :
   tags_label                 : "תגיות:"

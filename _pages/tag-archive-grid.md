@@ -1,5 +1,5 @@
 ---
-title: "نمای شبکه‌ای دسته‌بندی موضوعی"
+title: "תגיות"
 permalink: /tags-grid/
 layout: tags
 entries_layout: grid

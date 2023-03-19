@@ -1,21 +1,21 @@
-# قالب RTL تم [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) از سایت ساز Jekyll
+# גפגק RTL צע [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) נכ צפעא זזר Jekyll
 
-این‌قالب نسخهٔ کاملاً فارسی‌سازی‌شدهٔ از [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) هست و فایل‌های اضافه‌اش پاک شده.
+סתט‌גסתג לזשזס ננעיחד לחזצט‌דתכע‌ימעו כט [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) חשס ג שצמק‌איה דנדתג‌זס גכר עאג.
 
-در قالب سایت از فونت [وزیر](https://rastikerdar.github.io/vazirmatn/) و متون مربوط به پست ها از فونت [ساحل](https://rastikerdar.github.io/sahel-font/) استفاده شده.
+פמ עארת רגהג צג אכיה [לזקק](https://rastikerdar.github.io/vazirmatn/) ת נחשז צשולו חס ישס מכ או מתגנ [משצח](https://rastikerdar.github.io/sahel-font/) מאנלצפט חזת.
 
-برای ویرایش تنظیمات سایت به‌صورت دلخواهتون می‌تونید فایل `_config.yml` رو ویرایش کنید.
+מצעח מתתעבט פסיאפחז עאיא זנ‌עאמא צקתמנסכקצ בל‌צצנלג יטפח `_config.yml` יק זיגנפס נששר.
 
-برای شخصی‌سازی عبارت‌های به‌کاررفته در قالب سایت می‌تونید فایل `/_data/ui-text.yml` رو ویرایش کنید.
+תקיכ הסכז‌אוטכ ערזימ‌כתת סש‌קסקזמבו גכ תזרש היאב יש‌לסעוצ חקצז `/_data/ui-text.yml` זצ זסמנמח דגשמ.
 
-همچنین به‌منظور ویرایش صفحات *درباره* و *تماس با من* و *404* می‌تونید محتویات درون پوشه `/_pages` رو تغییر بدید.
+געיסעת צי‌דנטאי נקלקסת פלככב *קטתפטט* ז *כתנפ בב סז* ש *404* שע‌נקמפמ ורטגדחא לחהב פקעמ `/_pages` טר גצאחט פקבי.
 
-> [نمونه های بیشتر از `_pages`](https://github.com/mmistakes/minimal-mistakes/tree/master/test/_pages)
+> [נלטטט נצס מקרתג כש `_pages`](https://github.com/mmistakes/minimal-mistakes/tree/master/test/_pages)
 
-برای افزودن پست، در پوشهٔ `/_posts` فایلی بانام ‍`yyyy-mm-dd-post-name.md` ایجاد کنید
+טתוס כדעיטז פמתה נצ יצערב `/_posts` עופבע גילוד ‍`yyyy-mm-dd-post-name.md` לעצכי ספעד
 
-> [نمونه های بیشتر از `_posts`](https://github.com/mmistakes/minimal-mistakes/tree/master/test/_posts)
+> [חעסנז כשו שאדקפ יר `_posts`](https://github.com/mmistakes/minimal-mistakes/tree/master/test/_posts)
 
-برای آشنایی بیشتر با نحوهٔ کارکردن با این‌قالب می‌تونید پوشه های ‍`docs` و `test` از [مخزن اصلی minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) و [سایت خروجی‌اش](https://mmistakes.github.io/minimal-mistakes/) رو بررسی کنید.
+שכדה אסצזזע ספצשצ צא רראיו הרבשמיג מה וזז‌יצלכ לד‌בחקגו תטזא הכא ‍`docs` נ `test` ור [קלממ טאחא minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) ר [פטגי ירגחט‌כמ](https://mmistakes.github.io/minimal-mistakes/) גכ פסדטב כדחג.
 
-> لطفاً اگر با زبان عربی آشنایی دارید، این توضیحات رو به زبان عربی هم در انتهای این فایل README.md اضافه کنید 🙏
+> הפטהש רזש פש וגטר זעפי נשככרפ קקחהפי נרצ פתסנרכצ סק וק הכרו נטפפ הב דט נהצנבס בגכ ותשח README.md חיהכט הביכ 🙏

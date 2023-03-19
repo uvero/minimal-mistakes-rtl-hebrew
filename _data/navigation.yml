@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "درباره"
+  - title: "אודות"
     url: /about/
-  - title: "تماس با من"
-    url: /contact/
-  - title: "دسته‌بندی"
+  - title: "קטגוריות"
+    url: /categories/
+  - title: "תגים"
     url: /tags/
